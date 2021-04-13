@@ -1,2 +1,2 @@
 # Python-Math-module
-# A comprehensive guide to help you learn how to use the math module in Python with examples. 
+# A comprehensive guide to help you use functions in the Python Math module with examples. 
